@@ -60,10 +60,8 @@ main {
 .cd-nav-trigger {
 	position: fixed;
 	z-index: 3;
-	left: 50%;
-	top: 90%;
-    bottom:10%;
-    right: 50%;
+	left: 25px;
+	top: 25px;
 	height: 50px;
 	width: 50px;
 	background-color: $color-1;
