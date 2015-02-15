@@ -28,12 +28,12 @@ header {
 
 @media (max-width: 750px) {
 	header {
-    	h1.big {
+    	big {
         	display: none;
             visibility: none
         }
         
-        h1.small {
+        small {
         	display: block;
             visibiity: visible;
         
