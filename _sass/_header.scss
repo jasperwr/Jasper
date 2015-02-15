@@ -22,5 +22,20 @@ header {
         color: #00a9a5;
         animation-duration: .3s;
     }
+    
 
+}
+
+@media (max-width: 750px) {
+	header {
+    	h1.big {
+        	display: none;
+            visibility: none
+        }
+        
+        h1.small {
+        	display: block;
+            visibiity: visible;
+        
+    }
 }
