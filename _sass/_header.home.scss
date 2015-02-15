@@ -36,12 +36,12 @@ header {
 
 @media (max-width: 750px) {
 	header {
-    	big {
+    	.big {
         	display: none;
             visibility: hidden;
         }
         
-        small {
+        .small {
         	display: block;
             visibility: visible;
         
