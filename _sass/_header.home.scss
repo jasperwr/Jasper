@@ -1,0 +1,36 @@
+header {
+    height: 80%;
+    min-height: 80%;
+    background-image: url(../img/photo-1413896235942-39c2eb7cd584.jpg);
+    position: absolute;
+    width: 100%;
+    background-size: cover;
+    background-position: center bottom;
+    text-align: center;
+    
+    h1 {
+        color: #00a9a5;
+        padding-top: 15%;
+    }
+    
+        a {
+        padding-top: 20px;
+        color: #00a9a5;
+    }
+    
+    a:hover {
+        color: #00a9a5;
+        animation-duration: .3s;
+    }
+    
+    .down {
+        bottom: 20px;
+        position: absolute;
+    }
+}
+
+.wrapper {
+        top: 80%;
+        position: absolute;
+    }
+    

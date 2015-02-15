@@ -1,0 +1,24 @@
+# Site settings
+title: Jasper Hoekstra
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+url: "http://localhost:4000" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+
+
+# Social
+links:
+    twitter: Jasper_W_R_H
+    facebook:
+    instagram: jasperwr
+    github: jasperwr
+    pinterest: woppiehoek
+    youtube:
+    linkedin:
+    flickr:
+    email: jasperwr@live.com
+    dropbox: sh/6gwznmedgyb4xn7/AADttfKHyl9rEsP8PLCutMpba?dl=0
