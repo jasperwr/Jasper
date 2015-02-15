@@ -33,6 +33,11 @@ header {
         top: 80%;
         position: absolute;
     }
+    
+        .small {
+    	display: none;
+        visibility: hidden
+    }
 
 @media (max-width: 750px) {
 	header {
