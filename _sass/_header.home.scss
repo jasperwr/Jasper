@@ -33,4 +33,18 @@ header {
         top: 80%;
         position: absolute;
     }
-    
+
+@media (max-width: 750px) {
+	header {
+    	big {
+        	display: none;
+            visibility: hidden;
+        }
+        
+        small {
+        	display: block;
+            visibility: visible;
+        
+    }
+    }
+}
